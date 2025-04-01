@@ -61,12 +61,13 @@ h3 {
 	gap: 16px;
 }
 
-img {
+.articles article {
+	flex: 1;
+}
+
+.articles img {
 	width: 100%;
 	height: auto;
 
 }
 
-.article article {
-	flex: 1;
-}
