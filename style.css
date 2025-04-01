@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Satoshi";
+	src:url("fonts/WEB/fonts/Satoshi-Regular.woff2") format("woff2");
+}
+
+body {font-family: "Satoshi", sans-serif;}
+
+h1 {
+	font-family: "Nunito", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 900;
+	font-style: normal;
+  }
